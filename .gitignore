@@ -3,6 +3,8 @@ node_modules
 /dist
 public
 src/config.js
+src/assets
+src/plugins
 
 # local env files
 .env.local
